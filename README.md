@@ -1,14 +1,13 @@
-# [SUCCESS] Acer-Nitro5-Hackintosh
+# [Testing] Acer-Nitro5-Hackintosh
 
 If you loved my work, bestow it with a ⭐
 
-[![Preview](snap.png)](https://github.com/afkniladri/Acer-Nitro5-Hackintosh-OC/)
 
-# macOS Monterey : version 12.4
+# macOS 13 beta (Ventura) : version 13.0
 
 The project was made from scratch with the help of [Opencore - Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/). A huge thanks to the awesome community for the documantation.
 
-`Opencore Version : 0.7.9` 
+`Opencore Version : 0.8.2
 
 ## Contents
 
