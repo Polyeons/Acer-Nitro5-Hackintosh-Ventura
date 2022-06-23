@@ -22,7 +22,7 @@ The project was made from scratch with the help of [Opencore - Dortania Guide](h
 | ------------------- | ------------------------------------------- |
 | Computer model      | Acer Nitro 5 2018 - AN515-51 (GTX1050ti)   |
 | Processor           | Intel Core i5-7300hq ~2.5ghz turbo 3.5ghz  |
-| Memory              | HyperX Impact 16GB 2400MHz DDR4 CL14            |
+| Memory              | 8G of RAM (Unknown Manufacter, would have to check) |
 | Hard Disk           | Kingston Q500 480GB SATA3 2.5 SSD          |
 | Integrated Graphics | Intel UHD Graphics 630                     |
 | Monitor             | FHD 1920x1080 (15.6 inch)     |
