@@ -1,6 +1,5 @@
 # [Testing] Acer-Nitro5-Hackintosh
 
-If you loved my work, bestow it with a ⭐
 
 
 # macOS 13 beta (Ventura) : version 13.0
