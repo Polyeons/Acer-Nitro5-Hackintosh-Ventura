@@ -3,6 +3,7 @@
 
 
 # macOS 13 beta (Ventura) : version 13.0
+(This is a fork from afkniladri)
 
 The project was made from scratch with the help of [Opencore - Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/). A huge thanks to the awesome community for the documantation.
 
@@ -22,15 +23,16 @@ The project was made from scratch with the help of [Opencore - Dortania Guide](h
 | Computer model      | Acer Nitro 5 2018 - AN515-51 (GTX1050ti)   |
 | Processor           | Intel Core i5-7300hq ~2.5ghz turbo 3.5ghz  |
 | Memory              | 8G of RAM (Unknown Manufacter, would have to check) |
-| Hard Disk           | Kingston Q500 480GB SATA3 2.5 SSD          |
+| Hard Disk           | Intel SSD and 1TB HD (No details for now)          |
 | Integrated Graphics | Intel UHD Graphics 630                     |
 | Monitor             | FHD 1920x1080 (15.6 inch)     |
 | Sound Card          | Realtek ALC255                             |
-| Wireless Card       | TP Link TL-WN725N V3 (USB Dongle)|
+| Wireless Card       | TP Link TL-WN725N V3 (USB Dongle)           |
 | Touchpad            | Synaptics I2C HID based                              |
 
 ## Current Status
-- **Discrete graphic card** never going to work!
+- **(For Qualcomm Atheros Wifi models) These cards are not natively supported so it is better to replace it with an Intel AC-7265 Dual-band (This card is actually the original card found for this model)
+- **Discrete graphic card** never going to work! (At least not yet https://www.reddit.com/r/hackintosh/comments/uxz95u/nvidia_web_drivers_running_on_macos_monterey/ )
 - **Touchpad Gestures** works after adding patched DSDT/SSDT (XOSI) in OC
 - **Sound** Works perfectly with Layout 31 and ComboJack for headset.
 - **HDMI** Won't work, since the port is hardwired to the dGpu (disabled).
@@ -39,7 +41,7 @@ The project was made from scratch with the help of [Opencore - Dortania Guide](h
 ## DSDT-SSDT
 - Custom DSDT/SSDT files for this particular model has been created using dumping the DSDT from windows 10 and then modifying it for mac os to work.
 
-> ***Note*** : Please don't use this if you're using a different model, it will definitely cause problem, also kindly remove the kexts RtWlanU.kext and RtWlanU1827.kext from kexts folder and from config.plist [kernel -> Add], these kexts are for usb wifi dongle (tp-link tl-wn725n).
+> ***Note*** : Please don't use this if you're using a different model, it will definitely cause problems, also kindly remove the kexts RtWlanU.kext and RtWlanU1827.kext from kexts folder and from config.plist [kernel -> Add], these kexts are for usb wifi dongle (tp-link tl-wn725n).
 
 ## Credits
 
