@@ -33,7 +33,7 @@ The project was made from scratch with the help of [Opencore - Dortania Guide](h
 ## Current Status
 - **(For Qualcomm Atheros Wifi models) These cards are not natively supported so it is better to replace it with a wifi dongle, or a new card, like the Intel AC-7265.
 - **Discrete graphic card** never going to work! (At least not yet https://www.reddit.com/r/hackintosh/comments/uxz95u/nvidia_web_drivers_running_on_macos_monterey/ )
-- **Touchpad Gestures** works after adding patched DSDT/SSDT (XOSI) in OC
+- **Touchpad Gestures** works after adding patched DSDT/SSDT (XOSI) in OC (You'll have to change settings in MacOS)
 - **Sound** Works perfectly with Layout 31 and ComboJack for headset.
 - **HDMI** Won't work, since the port is hardwired to the dGpu (disabled).
 - **Everything else works** 
@@ -42,6 +42,8 @@ The project was made from scratch with the help of [Opencore - Dortania Guide](h
 - Custom DSDT/SSDT files for this particular model has been created using dumping the DSDT from windows 10 and then modifying it for mac os to work.
 
 > ***Note*** : Please don't use this if you're using a different model, it will definitely cause problems, also kindly remove the kexts RtWlanU.kext and RtWlanU1827.kext from kexts folder and from config.plist [kernel -> Add], these kexts are for usb wifi dongle (tp-link tl-wn725n).
+
+> ***Another Note*** : The touchpad inputs seem a little delayed to me, so I don't know if its my configuration or something  but I will try and see to fix it if you are having any problems with it.
 
 ## Credits
 
