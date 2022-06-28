@@ -7,7 +7,7 @@
 
 The project was made from scratch with the help of [Opencore - Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/). A huge thanks to the awesome community for the documantation.
 
-`Opencore Version : 0.8.2
+'Opencore Version : 0.8.2'
 
 ## Contents
 
