@@ -1,4 +1,4 @@
-# [Testing] Acer-Nitro5-Hackintosh
+# [WIP] Acer-Nitro5-Hackintosh
 
 
 
