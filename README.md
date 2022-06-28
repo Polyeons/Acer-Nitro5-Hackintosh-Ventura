@@ -31,7 +31,7 @@ The project was made from scratch with the help of [Opencore - Dortania Guide](h
 | Touchpad            | Synaptics I2C HID based                              |
 
 ## Current Status
-- **(For Qualcomm Atheros Wifi models) These cards are not natively supported so it is better to replace it with an Intel AC-7265 Dual-band (This card is actually the original card found for this model)
+- **(For Qualcomm Atheros Wifi models) These cards are not natively supported so it is better to replace it with a wifi dongle, or a new card, like the Intel AC-7265.
 - **Discrete graphic card** never going to work! (At least not yet https://www.reddit.com/r/hackintosh/comments/uxz95u/nvidia_web_drivers_running_on_macos_monterey/ )
 - **Touchpad Gestures** works after adding patched DSDT/SSDT (XOSI) in OC
 - **Sound** Works perfectly with Layout 31 and ComboJack for headset.
