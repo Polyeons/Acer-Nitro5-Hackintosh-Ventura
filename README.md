@@ -39,7 +39,7 @@ The project was made from scratch with the help of [Opencore - Dortania Guide](h
 - **Everything else works** 
 
 ## DSDT-SSDT
-- Custom DSDT/SSDT files for this particular model has been created using dumping the DSDT from windows 10 and then modifying it for mac os to work.
+- Custom DSDT/SSDT files for this particular model has been created using dumping the DSDT from Windows 10 and then modifying it for MacOS to work.
 
 > ***Note*** : Please don't use this if you're using a different model, it will definitely cause problems, also kindly remove the kexts RtWlanU.kext and RtWlanU1827.kext from kexts folder and from config.plist [kernel -> Add], these kexts are for usb wifi dongle (tp-link tl-wn725n).
 
