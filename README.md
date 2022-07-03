@@ -23,11 +23,11 @@ The project was made from scratch with the help of [Opencore - Dortania Guide](h
 | Laptop Model  | Acer Nitro 5 2018 - AN515-51 |
 | Processor           | Intel Core i5-7300HQ @ 2.5ghz, with turbo 3.5ghz  |
 | Memory              | 8G of RAM (Unknown Manufacter, would have to check) |
-| Storage         | Intel SSD and 1TB HD (No details for now)          |
+| Storage         | Intel SSD 600p Series (238GB) & Toshiba MQ01ABF (1TB)         |
 | Graphics        | Dedicated GTX 1050ti & Internal Intel (U)HD 630         |
 | Monitor             | Internal FHD 1920x1080 (15.6 inch)     |
 | Sound Card          | Realtek ALC255                             |
-| Wireless Card       | TP Link TL-WN725N V3 (USB Dongle)           |
+| Wireless Card       | Intel AC-7265 Dualband (Qualcomm Atheros QCA61x4A for NFA344A HAI models)         |
 | Touchpad            | Synaptics I2C HID based                              |
 
 ## Current Status
