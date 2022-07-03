@@ -4,4 +4,6 @@ This is a progress report on the Hackintosh Ventura for Acer Nitro 5 AN515-51
 
 #Ventura boots, no full compatibility (Wifi, atleast for me)
 
-#After turning off SIP and installed chris111's Wireless USB software, the system kernel panics immedietaly and I don't know why. (FAIL; Attempt 1)
+#After turning off SIP and installing chris111's Wireless USB software, the system kernel panics immedietaly and I don't know why. (FAIL; Attempt 1)
+
+Going to reinstall with a different wifi card.
