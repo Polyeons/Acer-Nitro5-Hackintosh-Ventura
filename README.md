@@ -1,6 +1,6 @@
-# [WIP] Acer-Nitro5-Hackintosh
+# [Almost Successful, see [progress](progress.md)] Acer-Nitro5-Hackintosh
 
-
+![snapshot](snapshot.png)
 
 # macOS 13 beta (Ventura) : version 13.0
 (This is a fork from afkniladri)
