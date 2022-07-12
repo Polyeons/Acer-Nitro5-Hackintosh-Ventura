@@ -1,4 +1,4 @@
-This is a progress report on the Hackintosh Ventura for Acer Nitro 5 AN515-51
+This is a progress document for Hackintosh Ventura on model Acer Nitro 5 AN515-51
 
 **Attempt 1**
 * Downloaded and created Ventura installer with new & updated EFI
