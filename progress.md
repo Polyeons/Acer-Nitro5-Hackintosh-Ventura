@@ -18,13 +18,13 @@ Attempt 2
 * Installed successfully with no issues.
 * Tested everything.
 
-| Tested | Works?                                                  |
+| What was tested | Does it Work?                                                  |
 | ------------------- | ------------------------------------------- |
 | Wifi | Yes |
-| Graphics & Hardware Acceleration | Yes |
-|Sound | Yes |
-| Bluetooth | Unfortunately, no |
+| Graphics & Hardware Acceleration | Yes, using integrated |
+| Sound | Yes |
+| Bluetooth | Unfortunately, not yet |
 | iCloud & Services | Yes |
-| Keyboard and trackpad | Yes, with no delay |
+| Keyboard and trackpad | Yes, no delay |
 
 (This will change in the future)
