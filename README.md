@@ -1,4 +1,4 @@
-# [Almost Successful, see [progress](progress.md)] Acer-Nitro5-Hackintosh
+# [Almost Successful, [see progress](progress.md)] Acer-Nitro5-Hackintosh
 
 ![snapshot](snapshot.png)
 
