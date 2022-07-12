@@ -1,9 +1,23 @@
 This is a progress report on the Hackintosh Ventura for Acer Nitro 5 AN515-51
 
-#Downloaded Ventura with new EFI
+Attempt 1
+* Downloaded and created Ventura installer with new & updated EFI
+* Installed Ventura, but with no full compatibility (Wifi Card Unsupported, can't use iServices)
+* Used a Wifi dongle with outdated software, so I installed chris111's WIfi USB Dongle software after it asking to turn off SIP.
+* After installing, rebooting into Ventura immedieatly kernel panics, couldn't figure out why.
 
-#Ventura boots, no full compatibility (Wifi, atleast for me)
+[FAIL]
 
-#After turning off SIP and installing chris111's Wireless USB software, the system kernel panics immedietaly and I don't know why. (FAIL; Attempt 1)
+My best bet to get this hackintosh to work is replace the Wifi card for iServices.
 
-Going to reinstall with a different wifi card.
+Attempt 2
+[July 11th-12th] 
+* New Wifi card arrives, installed into my laptop replacing Qualcomm Atheros unsupported card.
+* Used my other hackintosh to install Ventura Beta app and create a new install media.
+* Recreated EFI with updated kexts, installer boots up normally.
+* Installed successfully with no issues.
+* Tested everything.
+
+
+
+
