@@ -8,7 +8,7 @@ This is a progress report on the Hackintosh Ventura for Acer Nitro 5 AN515-51
 
 [FAIL]
 
--- My best bet to get this hackintosh to work is replace the Wifi card for iServices. --
+My best bet to get this hackintosh to work is replace the Wifi card for iServices.
 
 **Attempt 2**
 [July 11th-12th] 
