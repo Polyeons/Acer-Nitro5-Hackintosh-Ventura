@@ -27,4 +27,6 @@ My best bet to get this hackintosh to work is replace the Wifi card for iService
 | iCloud & Services | Yes |
 | Keyboard and trackpad | Yes, no delay |
 
+Update: Bluetooth seems to not work because IntelBluetoothFirmware.kext isn't working. Going to troubleshoot and get it to work.
+
 (This will change in the future)
