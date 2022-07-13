@@ -29,6 +29,8 @@ My best bet to get this hackintosh to work is replace the Wifi card for iService
 
 Update: Bluetooth seems to not work because either BlueToolFixup.kext and/or IntelBluetoothFirmware.kext isn't working properly.
 
-To conclude, this attempt was a success, kinda. The only thing not working is Bluetooth, but everything else seems to be fine. Since this is a beta, I wouldn't expect everything to work right off. So when Ventura actually gets a stable release, it would be better to do it then.
+To conclude, this attempt was kinda successful. The only thing not working is Bluetooth, but everything else seems to be fine. Since this is a beta, I wouldn't expect everything to work right off. So when Ventura actually gets a stable release, it would be better to do it as everything gets updated.
+
+[SUCCESS, KINDA]
 
 (This will change in the future)
