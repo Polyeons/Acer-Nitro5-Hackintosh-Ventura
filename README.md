@@ -44,7 +44,8 @@ The project was made from scratch with the help of [Opencore - Dortania Guide](h
 - Custom DSDT/SSDT files for this particular model has been created using dumping the DSDT from Windows 10 and then modifying it for MacOS to work.
 
 > ***Note*** : Please don't use this if you're using a different model, it will definitely cause problems.
-> **Another Note** : Use GenSMBIOS to generate new serial, don't use the same one included in EFI.zip 
+
+> **Another Note** : Use GenSMBIOS to generate new serial, don't use the same one included in the config provided. Also, there might be 3 errors before loading Opencore, don't mind them, I will fix that when I can.
 
 ## Credits
 
