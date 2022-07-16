@@ -1,9 +1,10 @@
 # [Almost Successful, [see progress](progress.md)] Acer-Nitro5-Hackintosh
+(This is a fork from afkniladri, use his instead)
 
 ![snapshot](snapshot.png)
 
 # macOS 13 beta (Ventura) : version 13.0
-(This is a fork from afkniladri)
+
 
 The project was made from scratch with the help of [Opencore - Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/). A huge thanks to the awesome community for the documantation.
 
