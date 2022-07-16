@@ -30,7 +30,7 @@ The project was made from scratch with the help of [Opencore - Dortania Guide](h
 | Graphics        | Dedicated GTX 1050ti & Internal Intel (U)HD 630         |
 | Display       | Internal FHD 1920x1080 (15.6 inch)     |
 | Sound Card          | Realtek ALC255                             |
-| Wireless Card       | Intel AC-7265 Dualband (Qualcomm Atheros QCA61x4A [NFA344A HAI] )         |
+| Wireless Card       | Intel AC-7265 Dualband (Qualcomm Atheros QCA61x4A [NFA344A HAI])         |
 | Touchpad            | Synaptics I2C HID based                              |
 
 ## Current Status (More details [here](progress.md))
