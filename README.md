@@ -34,7 +34,7 @@ The project was made from scratch with the help of [Opencore - Dortania Guide](h
 | Touchpad            | Synaptics I2C HID based                              |
 
 ## Current Status (More details [here](progress.md))
-- **Qualcomm Atheros Wifi cards** are not natively supported so it is better to replace it with a wifi dongle, or a different supported card. (NFA344A HAI)
+- **Qualcomm Atheros Wifi cards (NFA344A HAI)** are not natively supported so it is better to replace it with a wifi dongle, or a different supported card.
 - **Discrete graphic card** never going to work! (At least not yet https://www.reddit.com/r/hackintosh/comments/uxz95u/nvidia_web_drivers_running_on_macos_monterey/ )
 - **Touchpad Gestures** works after adding patched DSDT/SSDT (XOSI) in OC (You'll have to change settings in MacOS)
 - **Sound** Works perfectly with Layout 31 and ComboJack for headset.
