@@ -3,7 +3,7 @@
 
 ![snapshot](snapshot.png)
 
-# macOS 13 beta (Ventura) : Beta 3
+# macOS 13 : Ventura Beta 3
 
 
 The project was made from scratch with the help of [Opencore - Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/). A huge thanks to the awesome community for the documantation.
