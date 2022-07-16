@@ -46,7 +46,7 @@ The project was made from scratch with the help of [Opencore - Dortania Guide](h
 
 > ***Note*** : Please don't use this if you're using a different model, it will definitely cause problems.
 
-> **Another Note** : Use GenSMBIOS to generate new serial, don't use the same one included in the config provided. Also, there might be 3 errors before loading Opencore, don't mind them, I will fix that when I can.
+> **Another Note** : Use GenSMBIOS to generate new serial, don't use the one included in the config provided.
 
 ## Credits
 
