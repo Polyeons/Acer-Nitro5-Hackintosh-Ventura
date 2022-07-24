@@ -24,12 +24,12 @@ I ordered a replacement Wifi card. (Intel AC-7265 Dual-Band)
 | Wifi | Yes |
 | Graphics & Hardware Acceleration | Yes, using integrated |
 | Sound | Yes |
-| Bluetooth | Unfortunately, not yet |
+| Bluetooth | Yes |
 | iCloud & Services | Yes |
 | Keyboard and trackpad | Yes, no delay |
 
-Update: Bluetooth seems to not work because either BlueToolFixup.kext and/or IntelBluetoothFirmware.kext isn't working since Apple has been updating their bluetooth stack so it's best to wait for an update.
+Another update: Looks like I was wrong, whoops! Bluetooth is working now after adding SSDT-USB-RESET and it reads as normal now, finally!
 
-To conclude, this attempt was a partial success. The only thing not working is Bluetooth, but everything else seems to be fine. Since this is a beta, I wouldn't expect everything to work intentionally. Better to wait for a stable, full release. 
+To conclude, this attempt was a success. The only thing not working was Bluetooth, but now everything seems to be fine. Because this is a beta, I wouldn't expect everything to work. Better to wait for Apple to release Ventura. 
 
 (This will change in the future)
