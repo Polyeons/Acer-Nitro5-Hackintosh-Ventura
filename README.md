@@ -1,4 +1,4 @@
-# [PARTIAL SUCCESS, [see progress](progress.md)] Acer-Nitro5-Hackintosh
+# [SUCCESS, [see progress](progress.md)] Acer-Nitro5-Hackintosh
 (This is a fork from afkniladri, use his instead)
 
 ![snapshot](snapshot.png)
