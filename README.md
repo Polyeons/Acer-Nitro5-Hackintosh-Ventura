@@ -25,7 +25,7 @@ The project was made from scratch with the help of [Opencore - Dortania Guide](h
 | ------------------- | ------------------------------------------- |
 | Laptop Model  | Acer Nitro 5 2018 - AN515-51 |
 | Processor           | Intel Core i5-7300HQ @ 2.5GHz, with turbo on @ 3.5GHz  |
-| Memory              | 8G of RAM (Unknown Manufacter, would have to check) |
+| Memory              | 8G of RAM OEM (Unknown Manufacter, would have to check) |
 | Storage         | Intel SSD 600p Series (256GB)         |
 | Graphics        | Dedicated GTX 1050ti & Internal Intel (U)HD 630         |
 | Display       | Internal FHD 1920x1080 (15.6 inch)     |
